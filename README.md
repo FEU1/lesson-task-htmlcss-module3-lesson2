@@ -10,5 +10,8 @@ Use Flexbox to lay out the following sections on the website.
 - The Adinrondack Red page
 - The Contact page
 
-By the time you're finished the site should look like:
-![Result of task 3.2](assets/html-css-task3-2_result.gif)
+### Video
+
+This video shows you how to complete the lesson task 3.2. Only watch it after attempting the lesson task by yourself.
+
+[View on Vimeo](https://vimeo.com/481248782/d58599b3e7)
